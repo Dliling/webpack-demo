@@ -11,7 +11,7 @@ module.exports = {
         semi: 'warn'
     },
     env: {
-        brower: true,
+        browser: true,
         node: true
     }
 };
